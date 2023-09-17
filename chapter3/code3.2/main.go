@@ -1,3 +1,6 @@
+// code3.2
+// 特定の要素に存在する「添字」も取得する
+
 package main
 
 import (

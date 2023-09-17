@@ -1,3 +1,6 @@
+// code3.3
+// 最小値を求める
+
 package main
 
 import (

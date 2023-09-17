@@ -1,3 +1,6 @@
+// code3.1
+// 線形探索法
+
 package main
 
 import (
